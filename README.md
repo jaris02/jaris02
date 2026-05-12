@@ -40,7 +40,7 @@ I enjoy building software that is structured, maintainable, and genuinely useful
 
 ### Wisdom Pass
 
-**Full Stack Developer** • 2025 – Present
+**co-founder and Full Stack Developer** • 2025 – Present
 
 Worked on full-stack features for an educational platform using Next.js, FastAPI, Django, and Supabase. Built and maintained systems related to authentication, content management, and interactive learning workflows while focusing on performance, maintainability, and usability.
 
@@ -48,7 +48,7 @@ Worked on full-stack features for an educational platform using Next.js, FastAPI
 
 ### TabibX
 
-**Full Stack Developer** • 2025 – Present
+**back Developer and Business Logic Analyst** • 2025 – Present
 
 Working on an AI-powered developer tool designed to help engineers understand repositories, summarize codebase activity, generate changelogs, and reduce context switching during development.
 
@@ -56,9 +56,9 @@ Contributed to backend systems, repository analysis workflows, API integration, 
 
 ---
 
-### Wollo University Degree Document Gateway
+### Wollo University Document Processing Gateway
 
-**Software Developer** • 2024 – Present
+**Software Developer and Workflow Analyst** • 2024 – Present
 
 Developed a document processing and verification system for Wollo University to streamline degree-related workflows, improve organization, and reduce manual administrative processes.
 
