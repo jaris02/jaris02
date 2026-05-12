@@ -2,13 +2,13 @@
 
 <div align="center">
 
-### Software Engineer • Business Systems • Financial Workflows
+### Software Engineer • Accountant • Financial Workflows
 
-Building software that improves business operations, strengthens financial reliability, and simplifies real-world workflows.
+Building software that improves business operations, strengthens financial reliability, and simplifies real-world workflows — not just systems made for appearance.
 
 <br/>
 
-[Portfolio](https://yourdomain.com) • [LinkedIn](https://linkedin.com/in/jaris02) • [Email](mailto:zizuasmat@gmail.com)
+[Portfolio](https://sirajtech.work) • [LinkedIn](https://linkedin.com/in/jaris02) • [Email](mailto:zizuasmat@gmail.com)
 
 </div>
 
