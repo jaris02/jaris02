@@ -1,27 +1,115 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hey:) 👋, I am called Siraj Mohammed</h1>
-<h3 align="center">A passionate junior software developer from Ethiopia the origin of coffee😋</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# <div align="center">Siraj Mohammed</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaris02&label=Profile%20views&color=0e75b6&style=flat" alt="jaris02" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/jarisxi" target="blank"><img src="https://img.shields.io/twitter/follow/jarisxi?logo=twitter&style=for-the-badge" alt="jarisxi" /></a> </p>
+### Software Engineer • Business Systems • Financial Workflows
 
-- 🌱 I’m currently learning **Full stack web development, C#**
+Building software that improves business operations, strengthens financial reliability, and simplifies real-world workflows.
 
-- ⚡ Fun fact **You can't beat me at FIFA😎**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jarisxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jarisxi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaris02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaris02" height="30" width="40" /></a>
-</p>
+[Portfolio](https://yourdomain.com) • [LinkedIn](https://linkedin.com/in/jaris02) • [Email](mailto:zizuasmat@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaris02&show_icons=true&locale=en&layout=compact" alt="jaris02" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaris02&show_icons=true&locale=en" alt="jaris02" /></p>
+## Overview
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaris02&" alt="jaris02" /></p>
+I’m a Software Engineer with a background in Accounting and Finance, focused on building practical systems for business operations, workflow automation, and financial processes.
+
+My work spans full-stack applications, backend systems, desktop software, and infrastructure using technologies such as Next.js, FastAPI, Django, Node.js, .NET, Docker, PostgreSQL, and Microsoft SQL Server.
+
+I enjoy building software that is structured, maintainable, and genuinely useful in real working environments.
+
+---
+
+## Current Focus
+
+```txt
+• Business & Financial Systems
+• Backend Engineering & APIs
+• Full-Stack Web Applications
+• Automation & Workflow Tools
+• Infrastructure & System Design
+```
+
+---
+
+## Experience
+
+### Wisdom Pass
+
+**Full Stack Developer** • 2025 – Present
+
+Worked on full-stack features for an educational platform using Next.js, FastAPI, Django, and Supabase. Built and maintained systems related to authentication, content management, and interactive learning workflows while focusing on performance, maintainability, and usability.
+
+---
+
+### TabibX
+
+**Full Stack Developer** • 2025 – Present
+
+Working on an AI-powered developer tool designed to help engineers understand repositories, summarize codebase activity, generate changelogs, and reduce context switching during development.
+
+Contributed to backend systems, repository analysis workflows, API integration, and developer-facing features using FastAPI, Next.js, Docker, PostgreSQL, and Nginx.
+
+---
+
+### Wollo University Degree Document Gateway
+
+**Software Developer** • 2024 – Present
+
+Developed a document processing and verification system for Wollo University to streamline degree-related workflows, improve organization, and reduce manual administrative processes.
+
+---
+
+### Inventory & Store Management System
+
+**Desktop Application Developer** • 2025 – 2026
+
+Designed and developed a desktop-based inventory and store management system focused on inventory tracking, financial record organization, and operational workflows.
+
+Implemented IFRS-aligned inventory handling features including weighted average costing, inventory allowance handling, and financial reporting support using .NET, C#, and Microsoft SQL Server.
+
+---
+
+## Tech Stack
+
+### Frontend
+
+```txt
+Next.js • React • Tailwind CSS
+```
+
+### Backend
+
+```txt
+FastAPI • Django • Node.js • .NET
+```
+
+### Database
+
+```txt
+PostgreSQL • Microsoft SQL Server • Supabase • MySQL
+```
+
+### Infrastructure & Tools
+
+```txt
+Docker • Nginx • Git • Linux
+```
+
+---
+
+## Philosophy
+
+> Building software that solves practical problems, supports real business operations, and remains reliable over time.
+
+---
+
+<div align="center">
+
+### Dessie, Ethiopia
+
+</div>
